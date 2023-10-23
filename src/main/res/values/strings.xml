@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">RREM</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_product">Products</string>
+    <string name="title_receive">Receive</string>
+    <string name="title_release">Release</string>
+    <string name="title_user">User</string>
+    <!-- Receiving -->
+    <!-- Receiving Columns -->
+    <string name="reccol1">ID</string>
+    <string name="reccol2">Suppliers Name</string>
+    <string name="reccol3">Date</string>Date/string>
+    <string name="reccol4">Status</string>
+
+    <!-- Receiving Rows -->
+    <string name="recrow1ID">1</string>
+    <string name="recrow1SN">Jericho Rosales</string>
+    <string name="recrow1Date">02/03/23</string>
+    <string name="recrow1Status">Complete</string>
+
+    <string name="recrow2ID">2</string>
+    <string name="recrow2SN">Xian Lim</string>
+    <string name="recrow2Date">04/05/02</string>
+    <string name="recrow2Status">Complete</string>
+
+    <string name="recrow3ID">3</string>
+    <string name="recrow3SN">Jason Gainza</string>
+    <string name="recrow3Date">06/01/23</string>
+    <string name="recrow3Status">Complete</string>
+
+    <string name="recrow4ID">4</string>
+    <string name="recrow4SN">Barbara Mijares</string>
+    <string name="recrow4Date">08/02/23</string>
+    <string name="recrow4Status">Complete</string>
+
+    <string name="recrow5ID">5</string>
+    <string name="recrow5SN">Leonard Gumban</string>
+    <string name="recrow5Date">09/12/23</string>
+    <string name="recrow5Status">Pending</string>
+
+    <string name="recrow6ID">6</string>
+    <string name="recrow6SN">Sukhpreet Tajpur</string>
+    <string name="recrow6Date">09/21/23</string>
+    <string name="recrow6Status">Pending</string>
+
+    <string name="recrow7ID">7</string>
+    <string name="recrow7SN">Jahziel Banne Libo-on</string>
+    <string name="recrow7Date">09/03/23</string>
+    <string name="recrow7Status">Pending</string>
+
+    <!-- Releasing -->
+    <!-- Releasing Columns -->
+    <string name="relcol1">ID</string>
+    <string name="relcol2">Customers Name</string>
+    <string name="relcol3">Date</string>Date/string>
+    <string name="relcol4">Status</string>
+    <!-- Releasing Rows -->
+    <string name="relrow1ID">1</string>
+    <string name="relrow1CN">Francis De Magiba</string>
+    <string name="relrow1Date">02/03/23</string>
+    <string name="relrow1Status">Complete</string>
+
+    <string name="relrow2ID">2</string>
+    <string name="relrow2CN">Lowelyn Ann De Morgans</string>
+    <string name="relrow2Date">04/05/02</string>
+    <string name="relrow2Status">Complete</string>
+
+    <string name="relrow3ID">3</string>
+    <string name="relrow3CN">Lorvin Jude Kapote</string>
+    <string name="relrow3Date">06/01/23</string>
+    <string name="relrow3Status">Complete</string>
+
+    <string name="relrow4ID">4</string>
+    <string name="relrow4CN">Jia Picanto</string>
+    <string name="relrow4Date">08/02/23</string>
+    <string name="relrow4Status">Complete</string>
+
+    <string name="relrow5ID">5</string>
+    <string name="relrow5CN">Don Labandera</string>
+    <string name="relrow5Date">09/12/23</string>
+    <string name="relrow5Status">Pending</string>
+
+    <string name="relrow6ID">6</string>
+    <string name="relrow6CN">Ella Pedada</string>
+    <string name="relrow6Date">09/21/23</string>
+    <string name="relrow6Status">Pending</string>
+
+    <string name="relrow7ID">7</string>
+    <string name="relrow7CN">Kasi Mondragon</string>
+    <string name="relrow7Date">09/03/23</string>
+    <string name="relrow7Status">Pending</string>
+
+    <!-- User -->
+    <!-- User Columns -->
+    <string name="ucol1">ID</string>
+    <string name="ucol2">Name</string>
+    <string name="ucol3">Date</string>
+    <string name="ucol4">Access</string>
+    <!-- User Rows -->
+    <string name="urow1ID">1</string>
+    <string name="urow1N">Rolly Callupez</string>
+    <string name="urow1Date">02/03/23</string>
+    <string name="urow1Access">Owner</string>
+
+    <string name="urow2ID">2</string>
+    <string name="urow2N">Encarnieta Callupez</string>
+    <string name="urow2Date">04/05/02</string>
+    <string name="urow2Access">Manager</string>
+
+    <string name="urow3ID">3</string>
+    <string name="urow3N">Rolen John</string>
+    <string name="urow3Date">06/01/23</string>
+    <string name="urow3Access">Manager</string>
+
+    <string name="urow4ID">4</string>
+    <string name="urow4N">Ma. Kristina Callupez</string>
+    <string name="urow4Date">08/02/23</string>
+    <string name="urow4Access">Staff</string>
+
+    <string name="urow5ID">5</string>
+    <string name="urow5N">Robert McCall</string>
+    <string name="urow5Date">09/12/23</string>
+    <string name="urow5Access">Staff</string>
+
+    <string name="urow6ID">6</string>
+    <string name="urow6N">John Wick</string>
+    <string name="urow6Date">09/21/23</string>
+    <string name="urow6Access">Staff</string>
+
+    <string name="urow7ID">7</string>
+    <string name="urow7N">Jack Reacher</string>
+    <string name="urow7Date">09/03/23</string>
+    <string name="urow7Access">Staff</string>
+
+    <string-array name="access_levels">
+        <item>Staff</item>
+        <item>Owner</item>
+        <item>Manager</item>
+    </string-array>
+</resources>
